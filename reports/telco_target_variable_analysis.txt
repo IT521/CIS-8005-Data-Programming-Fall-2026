@@ -1,0 +1,11 @@
+Telco Churn Distribution
+Churn Label
+No     5174
+Yes    1869
+Name: count, dtype: int64
+
+Telco Churn Percentage
+Churn Label
+No     73.463013
+Yes    26.536987
+Name: proportion, dtype: float64

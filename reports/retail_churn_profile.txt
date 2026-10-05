@@ -1,0 +1,28 @@
+Data Profiling Retail Churn
+<class 'pandas.DataFrame'>
+RangeIndex: 5630 entries, 0 to 5629
+Data columns (total 20 columns):
+ #   Column                       Non-Null Count  Dtype  
+---  ------                       --------------  -----  
+ 0   CustomerID                   5630 non-null   int64  
+ 1   Churn                        5630 non-null   int64  
+ 2   Tenure                       5366 non-null   float64
+ 3   PreferredLoginDevice         5630 non-null   str    
+ 4   CityTier                     5630 non-null   int64  
+ 5   WarehouseToHome              5379 non-null   float64
+ 6   PreferredPaymentMode         5630 non-null   str    
+ 7   Gender                       5630 non-null   str    
+ 8   HourSpendOnApp               5375 non-null   float64
+ 9   NumberOfDeviceRegistered     5630 non-null   int64  
+ 10  PreferedOrderCat             5630 non-null   str    
+ 11  SatisfactionScore            5630 non-null   int64  
+ 12  MaritalStatus                5630 non-null   str    
+ 13  NumberOfAddress              5630 non-null   int64  
+ 14  Complain                     5630 non-null   int64  
+ 15  OrderAmountHikeFromlastYear  5365 non-null   float64
+ 16  CouponUsed                   5374 non-null   float64
+ 17  OrderCount                   5372 non-null   float64
+ 18  DaySinceLastOrder            5323 non-null   float64
+ 19  CashbackAmount               5630 non-null   float64
+dtypes: float64(8), int64(7), str(5)
+memory usage: 1.1 MB

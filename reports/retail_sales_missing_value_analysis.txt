@@ -1,0 +1,15 @@
+Missing Value Analysis Retail Sales
+                          MissingCount  MissingPercent
+customer_id                          0             0.0
+age                                  0             0.0
+gender                               0             0.0
+income_bracket                       0             0.0
+loyalty_program                      0             0.0
+...                                ...             ...
+email_subscriptions                  0             0.0
+app_usage                            0             0.0
+website_visits                       0             0.0
+social_media_engagement              0             0.0
+days_since_last_purchase             0             0.0
+
+[78 rows x 2 columns]

@@ -1,0 +1,22 @@
+Unique Value Analysis Retail
+                             UniqueValues
+CustomerID                           5630
+Churn                                   2
+Tenure                                 36
+PreferredLoginDevice                    3
+CityTier                                3
+WarehouseToHome                        34
+PreferredPaymentMode                    7
+Gender                                  2
+HourSpendOnApp                          6
+NumberOfDeviceRegistered                6
+PreferedOrderCat                        6
+SatisfactionScore                       5
+MaritalStatus                           3
+NumberOfAddress                        15
+Complain                                2
+OrderAmountHikeFromlastYear            16
+CouponUsed                             17
+OrderCount                             16
+DaySinceLastOrder                      22
+CashbackAmount                       2586

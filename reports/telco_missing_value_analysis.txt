@@ -1,0 +1,35 @@
+Missing Value Analysis Telco
+                   MissingCount  MissingPercent
+Churn Reason               5174       73.463013
+Total Charges                11        0.156183
+CustomerID                    0        0.000000
+Count                         0        0.000000
+Country                       0        0.000000
+Zip Code                      0        0.000000
+Lat Long                      0        0.000000
+State                         0        0.000000
+City                          0        0.000000
+Gender                        0        0.000000
+Senior Citizen                0        0.000000
+Partner                       0        0.000000
+Dependents                    0        0.000000
+Tenure Months                 0        0.000000
+Phone Service                 0        0.000000
+Latitude                      0        0.000000
+Longitude                     0        0.000000
+Internet Service              0        0.000000
+Multiple Lines                0        0.000000
+Online Security               0        0.000000
+Online Backup                 0        0.000000
+Streaming TV                  0        0.000000
+Streaming Movies              0        0.000000
+Device Protection             0        0.000000
+Tech Support                  0        0.000000
+Paperless Billing             0        0.000000
+Contract                      0        0.000000
+Monthly Charges               0        0.000000
+Payment Method                0        0.000000
+Churn Label                   0        0.000000
+Churn Value                   0        0.000000
+Churn Score                   0        0.000000
+CLTV                          0        0.000000

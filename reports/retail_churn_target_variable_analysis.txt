@@ -1,0 +1,11 @@
+Retail Churn Distribution
+Churn
+0    4682
+1     948
+Name: count, dtype: int64
+
+Retail Churn Percentage
+Churn
+0    83.161634
+1    16.838366
+Name: proportion, dtype: float64

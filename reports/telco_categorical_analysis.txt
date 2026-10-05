@@ -1,0 +1,180 @@
+Categorical Analysis Telco
+
+CustomerID
+CustomerID
+3668-QPYBK    1
+9237-HQITU    1
+9305-CDSKC    1
+7892-POOKP    1
+0280-XJGEX    1
+4190-MFLUW    1
+8779-QRDMV    1
+1066-JKSGK    1
+6467-CHFZW    1
+8665-UTDHZ    1
+Name: count, dtype: int64
+
+Country
+Country
+United States    7043
+Name: count, dtype: int64
+
+State
+State
+California    7043
+Name: count, dtype: int64
+
+City
+City
+Los Angeles      305
+San Diego        150
+San Jose         112
+Sacramento       108
+San Francisco    104
+Fresno            64
+Long Beach        60
+Oakland           52
+Stockton          44
+Glendale          40
+Name: count, dtype: int64
+
+Lat Long
+Lat Long
+33.964131, -118.272783    5
+34.059281, -118.30742     5
+34.048013, -118.293953    5
+34.062125, -118.315709    5
+34.039224, -118.266293    5
+34.066367, -118.309868    5
+34.02381, -118.156582     5
+34.066303, -118.435479    5
+34.099869, -118.326843    5
+34.089953, -118.294824    5
+Name: count, dtype: int64
+
+Gender
+Gender
+Male      3555
+Female    3488
+Name: count, dtype: int64
+
+Senior Citizen
+Senior Citizen
+No     5901
+Yes    1142
+Name: count, dtype: int64
+
+Partner
+Partner
+No     3641
+Yes    3402
+Name: count, dtype: int64
+
+Dependents
+Dependents
+No     5416
+Yes    1627
+Name: count, dtype: int64
+
+Phone Service
+Phone Service
+Yes    6361
+No      682
+Name: count, dtype: int64
+
+Multiple Lines
+Multiple Lines
+No                  3390
+Yes                 2971
+No phone service     682
+Name: count, dtype: int64
+
+Internet Service
+Internet Service
+Fiber optic    3096
+DSL            2421
+No             1526
+Name: count, dtype: int64
+
+Online Security
+Online Security
+No                     3498
+Yes                    2019
+No internet service    1526
+Name: count, dtype: int64
+
+Online Backup
+Online Backup
+No                     3088
+Yes                    2429
+No internet service    1526
+Name: count, dtype: int64
+
+Device Protection
+Device Protection
+No                     3095
+Yes                    2422
+No internet service    1526
+Name: count, dtype: int64
+
+Tech Support
+Tech Support
+No                     3473
+Yes                    2044
+No internet service    1526
+Name: count, dtype: int64
+
+Streaming TV
+Streaming TV
+No                     2810
+Yes                    2707
+No internet service    1526
+Name: count, dtype: int64
+
+Streaming Movies
+Streaming Movies
+No                     2785
+Yes                    2732
+No internet service    1526
+Name: count, dtype: int64
+
+Contract
+Contract
+Month-to-month    3875
+Two year          1695
+One year          1473
+Name: count, dtype: int64
+
+Paperless Billing
+Paperless Billing
+Yes    4171
+No     2872
+Name: count, dtype: int64
+
+Payment Method
+Payment Method
+Electronic check             2365
+Mailed check                 1612
+Bank transfer (automatic)    1544
+Credit card (automatic)      1522
+Name: count, dtype: int64
+
+Churn Label
+Churn Label
+No     5174
+Yes    1869
+Name: count, dtype: int64
+
+Churn Reason
+Churn Reason
+Attitude of support person                   192
+Competitor offered higher download speeds    189
+Competitor offered more data                 162
+Don't know                                   154
+Competitor made better offer                 140
+Attitude of service provider                 135
+Competitor had better devices                130
+Network reliability                          103
+Product dissatisfaction                      102
+Price too high                                98
+Name: count, dtype: int64

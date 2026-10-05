@@ -1,0 +1,322 @@
+Categorical Analysis Retail Sales
+
+gender
+gender
+Other     333734
+Female    333720
+Male      332546
+Name: count, dtype: int64
+
+income_bracket
+income_bracket
+High      333612
+Medium    333367
+Low       333021
+Name: count, dtype: int64
+
+loyalty_program
+loyalty_program
+No     500288
+Yes    499712
+Name: count, dtype: int64
+
+churned
+churned
+No     500271
+Yes    499729
+Name: count, dtype: int64
+
+marital_status
+marital_status
+Divorced    333816
+Married     333234
+Single      332950
+Name: count, dtype: int64
+
+education_level
+education_level
+Bachelor's     250360
+High School    250105
+PhD            250079
+Master's       249456
+Name: count, dtype: int64
+
+occupation
+occupation
+Employed         250857
+Unemployed       250117
+Self-Employed    249941
+Retired          249085
+Name: count, dtype: int64
+
+transaction_date
+transaction_date
+2020-10-14 21:35:08    3
+2021-06-10 14:56:26    3
+2021-06-12 18:47:04    3
+2020-09-21 06:15:31    3
+2021-10-07 13:06:42    3
+2020-09-23 19:44:29    3
+2021-01-19 23:27:16    3
+2021-06-07 11:07:47    3
+2021-10-26 22:57:22    3
+2020-10-17 04:38:32    3
+Name: count, dtype: int64
+
+product_category
+product_category
+Toys           200669
+Groceries      200214
+Clothing       199778
+Electronics    199756
+Furniture      199583
+Name: count, dtype: int64
+
+payment_method
+payment_method
+Credit Card       250435
+Mobile Payment    250030
+Cash              249770
+Debit Card        249765
+Name: count, dtype: int64
+
+store_location
+store_location
+Location C    250336
+Location B    250280
+Location A    250150
+Location D    249234
+Name: count, dtype: int64
+
+day_of_week
+day_of_week
+Tuesday      143452
+Friday       143067
+Thursday     142930
+Sunday       142875
+Monday       142855
+Saturday     142700
+Wednesday    142121
+Name: count, dtype: int64
+
+purchase_frequency
+purchase_frequency
+Yearly     250767
+Monthly    249932
+Weekly     249768
+Daily      249533
+Name: count, dtype: int64
+
+last_purchase_date
+last_purchase_date
+2021-06-28 21:53:46    4
+2021-11-07 14:50:43    4
+2021-09-21 23:03:24    4
+2021-02-11 18:33:08    3
+2021-10-28 02:33:47    3
+2021-03-11 08:39:18    3
+2021-04-08 05:04:26    3
+2021-10-07 14:03:25    3
+2021-12-23 23:53:14    3
+2021-09-08 00:18:31    3
+Name: count, dtype: int64
+
+preferred_store
+preferred_store
+Location B    250262
+Location D    250007
+Location A    249949
+Location C    249782
+Name: count, dtype: int64
+
+product_name
+product_name
+Product B    250375
+Product C    249957
+Product A    249928
+Product D    249740
+Name: count, dtype: int64
+
+product_brand
+product_brand
+Brand Y    333775
+Brand Z    333608
+Brand X    332617
+Name: count, dtype: int64
+
+product_size
+product_size
+Large     333964
+Medium    333501
+Small     332535
+Name: count, dtype: int64
+
+product_color
+product_color
+Blue     200671
+Green    200202
+Red      199966
+Black    199704
+White    199457
+Name: count, dtype: int64
+
+product_material
+product_material
+Plastic    250483
+Wood       250096
+Metal      249896
+Glass      249525
+Name: count, dtype: int64
+
+product_manufacture_date
+product_manufacture_date
+2018-04-03 12:25:30    3
+2019-03-25 16:08:41    3
+2018-01-05 04:48:50    3
+2018-12-30 23:10:45    3
+2019-04-02 02:53:42    3
+2018-01-18 05:40:32    3
+2018-09-09 07:11:25    3
+2019-01-01 15:42:45    3
+2018-09-02 07:49:55    3
+2019-06-19 21:08:16    3
+Name: count, dtype: int64
+
+product_expiry_date
+product_expiry_date
+2023-01-04 01:05:51    3
+2022-04-11 17:03:11    3
+2022-10-25 14:12:51    3
+2023-11-08 19:57:47    3
+2023-03-03 03:59:48    3
+2022-02-11 06:13:48    3
+2023-06-26 09:19:33    3
+2022-11-20 15:33:36    3
+2022-11-12 15:17:52    3
+2022-06-08 04:08:39    3
+Name: count, dtype: int64
+
+promotion_type
+promotion_type
+20% Off                 333712
+Buy One Get One Free    333520
+Flash Sale              332768
+Name: count, dtype: int64
+
+promotion_start_date
+promotion_start_date
+2021-04-12 17:11:09    4
+2021-08-22 06:57:10    3
+2021-03-11 00:54:32    3
+2021-09-06 20:43:34    3
+2021-09-18 18:46:00    3
+2021-08-05 20:20:23    3
+2021-11-06 07:07:06    3
+2021-09-27 19:40:13    3
+2021-05-10 10:59:25    3
+2021-06-08 07:40:03    3
+Name: count, dtype: int64
+
+promotion_end_date
+promotion_end_date
+2022-02-11 08:21:26    3
+2022-05-18 23:05:46    3
+2022-12-04 09:11:28    3
+2022-05-31 19:04:31    3
+2022-09-27 14:07:17    3
+2022-09-19 07:06:12    3
+2022-05-16 09:45:00    3
+2022-07-08 23:55:31    3
+2022-04-04 21:08:01    3
+2022-05-11 15:39:53    3
+Name: count, dtype: int64
+
+promotion_effectiveness
+promotion_effectiveness
+High      333660
+Medium    333249
+Low       333091
+Name: count, dtype: int64
+
+promotion_channel
+promotion_channel
+Online          333694
+Social Media    333204
+In-store        333102
+Name: count, dtype: int64
+
+promotion_target_audience
+promotion_target_audience
+New Customers          500118
+Returning Customers    499882
+Name: count, dtype: int64
+
+customer_city
+customer_city
+City B    250788
+City C    249955
+City A    249698
+City D    249559
+Name: count, dtype: int64
+
+customer_state
+customer_state
+State Z    333674
+State X    333196
+State Y    333130
+Name: count, dtype: int64
+
+store_city
+store_city
+City D    250315
+City C    250177
+City B    249965
+City A    249543
+Name: count, dtype: int64
+
+store_state
+store_state
+State X    333702
+State Z    333602
+State Y    332696
+Name: count, dtype: int64
+
+holiday_season
+holiday_season
+Yes    500214
+No     499786
+Name: count, dtype: int64
+
+season
+season
+Winter    250307
+Spring    250169
+Fall      249839
+Summer    249685
+Name: count, dtype: int64
+
+weekend
+weekend
+No     500667
+Yes    499333
+Name: count, dtype: int64
+
+email_subscriptions
+email_subscriptions
+No     500062
+Yes    499938
+Name: count, dtype: int64
+
+app_usage
+app_usage
+Medium    333822
+Low       333345
+High      332833
+Name: count, dtype: int64
+
+social_media_engagement
+social_media_engagement
+Low       334073
+Medium    333065
+High      332862
+Name: count, dtype: int64

@@ -1,0 +1,11 @@
+Retail Sales Distribution
+churned
+No     500271
+Yes    499729
+Name: count, dtype: int64
+
+Retail Sales Percentage
+churned
+No     50.0271
+Yes    49.9729
+Name: proportion, dtype: float64

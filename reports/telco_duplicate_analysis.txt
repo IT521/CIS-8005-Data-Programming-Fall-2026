@@ -1,0 +1,3 @@
+Duplicate Analysis Telco
+telco_df.duplicated().sum(): 0
+telco_df["CustomerID"].duplicated().sum(): 0

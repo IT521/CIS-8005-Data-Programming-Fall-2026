@@ -1,0 +1,15 @@
+Unique Value Analysis Retail Sales
+                          UniqueValues
+customer_id                    1000000
+age                                 62
+gender                               3
+income_bracket                       3
+loyalty_program                      2
+...                                ...
+email_subscriptions                  2
+app_usage                            3
+website_visits                     100
+social_media_engagement              3
+days_since_last_purchase           365
+
+[78 rows x 1 columns]

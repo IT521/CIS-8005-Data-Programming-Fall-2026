@@ -1,0 +1,34 @@
+Numerical Statistics Retail
+                              count          mean          std      min  \
+CustomerID                   5630.0  52815.500000  1625.385339  50001.0   
+Churn                        5630.0      0.168384     0.374240      0.0   
+Tenure                       5366.0     10.189899     8.557241      0.0   
+CityTier                     5630.0      1.654707     0.915389      1.0   
+WarehouseToHome              5379.0     15.639896     8.531475      5.0   
+HourSpendOnApp               5375.0      2.931535     0.721926      0.0   
+NumberOfDeviceRegistered     5630.0      3.688988     1.023999      1.0   
+SatisfactionScore            5630.0      3.066785     1.380194      1.0   
+NumberOfAddress              5630.0      4.214032     2.583586      1.0   
+Complain                     5630.0      0.284902     0.451408      0.0   
+OrderAmountHikeFromlastYear  5365.0     15.707922     3.675485     11.0   
+CouponUsed                   5374.0      1.751023     1.894621      0.0   
+OrderCount                   5372.0      3.008004     2.939680      1.0   
+DaySinceLastOrder            5323.0      4.543491     3.654433      0.0   
+CashbackAmount               5630.0    177.223030    49.207036      0.0   
+
+                                  25%       50%         75%       max  
+CustomerID                   51408.25  52815.50  54222.7500  55630.00  
+Churn                            0.00      0.00      0.0000      1.00  
+Tenure                           2.00      9.00     16.0000     61.00  
+CityTier                         1.00      1.00      3.0000      3.00  
+WarehouseToHome                  9.00     14.00     20.0000    127.00  
+HourSpendOnApp                   2.00      3.00      3.0000      5.00  
+NumberOfDeviceRegistered         3.00      4.00      4.0000      6.00  
+SatisfactionScore                2.00      3.00      4.0000      5.00  
+NumberOfAddress                  2.00      3.00      6.0000     22.00  
+Complain                         0.00      0.00      1.0000      1.00  
+OrderAmountHikeFromlastYear     13.00     15.00     18.0000     26.00  
+CouponUsed                       1.00      1.00      2.0000     16.00  
+OrderCount                       1.00      2.00      3.0000     16.00  
+DaySinceLastOrder                2.00      3.00      7.0000     46.00  
+CashbackAmount                 145.77    163.28    196.3925    324.99  

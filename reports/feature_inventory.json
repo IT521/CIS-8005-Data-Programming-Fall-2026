@@ -1,0 +1,19 @@
+{
+    "Telco New Features": [
+        "Charges_Per_Month",
+        "Tenure_Category",
+        "Charge_Category"
+    ],
+    "Retail Churn New Features": [
+        "Orders_Per_Tenure",
+        "Cashback_Per_Order",
+        "Engagement_Score"
+    ],
+    "Retail Sales New Features": [
+        "online_purchase_ratio",
+        "return_rate",
+        "sales_per_transaction",
+        "support_calls_per_purchase",
+        "customer_value_score"
+    ]
+}

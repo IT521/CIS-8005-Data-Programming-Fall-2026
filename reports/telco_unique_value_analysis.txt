@@ -1,0 +1,35 @@
+Unique Value Analysis Telco
+                   UniqueValues
+CustomerID                 7043
+Count                         1
+Country                       1
+State                         1
+City                       1129
+Zip Code                   1652
+Lat Long                   1652
+Latitude                   1652
+Longitude                  1651
+Gender                        2
+Senior Citizen                2
+Partner                       2
+Dependents                    2
+Tenure Months                73
+Phone Service                 2
+Multiple Lines                3
+Internet Service              3
+Online Security               3
+Online Backup                 3
+Device Protection             3
+Tech Support                  3
+Streaming TV                  3
+Streaming Movies              3
+Contract                      3
+Paperless Billing             2
+Payment Method                4
+Monthly Charges            1585
+Total Charges              6530
+Churn Label                   2
+Churn Value                   2
+Churn Score                  85
+CLTV                       3438
+Churn Reason                 20

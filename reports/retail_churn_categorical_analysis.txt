@@ -1,0 +1,42 @@
+Categorical Analysis Retail
+
+PreferredLoginDevice
+PreferredLoginDevice
+Mobile Phone    2765
+Computer        1634
+Phone           1231
+Name: count, dtype: int64
+
+PreferredPaymentMode
+PreferredPaymentMode
+Debit Card          2314
+Credit Card         1501
+E wallet             614
+UPI                  414
+COD                  365
+CC                   273
+Cash on Delivery     149
+Name: count, dtype: int64
+
+Gender
+Gender
+Male      3384
+Female    2246
+Name: count, dtype: int64
+
+PreferedOrderCat
+PreferedOrderCat
+Laptop & Accessory    2050
+Mobile Phone          1271
+Fashion                826
+Mobile                 809
+Grocery                410
+Others                 264
+Name: count, dtype: int64
+
+MaritalStatus
+MaritalStatus
+Married     2986
+Single      1796
+Divorced     848
+Name: count, dtype: int64

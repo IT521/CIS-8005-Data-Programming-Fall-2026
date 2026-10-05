@@ -1,0 +1,71 @@
+Date Profiling Retail Sales
+transaction_date            str
+last_purchase_date          str
+product_manufacture_date    str
+product_expiry_date         str
+promotion_start_date        str
+promotion_end_date          str
+dtype: object
+Sample Date Values
+
+transaction_date
+0    2020-10-11 10:08:52
+1    2021-12-08 01:07:40
+2    2020-02-17 09:40:48
+3    2020-08-13 00:43:14
+4    2021-07-02 11:59:03
+Name: transaction_date, dtype: str
+
+last_purchase_date
+0    2021-09-11 04:22:38
+1    2021-05-16 12:01:16
+2    2021-02-07 16:47:48
+3    2021-12-30 23:48:26
+4    2021-11-02 11:48:25
+Name: last_purchase_date, dtype: str
+
+product_manufacture_date
+0    2019-08-04 01:47:01
+1    2019-10-23 19:59:17
+2    2018-05-12 08:00:29
+3    2019-11-15 16:17:29
+4    2019-08-27 02:58:19
+Name: product_manufacture_date, dtype: str
+
+product_expiry_date
+0    2022-05-28 14:54:02
+1    2022-12-19 08:04:41
+2    2023-02-01 12:15:07
+3    2023-02-05 11:46:57
+4    2023-10-05 08:13:07
+Name: product_expiry_date, dtype: str
+
+promotion_start_date
+0    2021-07-14 14:28:42
+1    2021-09-23 04:26:09
+2    2021-06-13 12:31:15
+3    2021-05-23 05:42:48
+4    2021-04-19 04:55:32
+Name: promotion_start_date, dtype: str
+
+promotion_end_date
+0    2022-12-30 13:04:13
+1    2022-09-13 03:16:26
+2    2022-03-13 00:53:35
+3    2022-02-06 00:42:30
+4    2022-12-04 13:07:09
+Name: promotion_end_date, dtype: str
+Invalid Date Detection
+transaction_date Invalid Dates: 0
+last_purchase_date Invalid Dates: 0
+product_manufacture_date Invalid Dates: 0
+product_expiry_date Invalid Dates: 0
+promotion_start_date Invalid Dates: 0
+promotion_end_date Invalid Dates: 0
+Date Coverage
+transaction_date 2020-01-01 00:00:21 2021-12-31 23:58:32
+last_purchase_date 2021-01-01 00:00:17 2021-12-31 23:59:25
+product_manufacture_date 2018-01-01 00:00:10 2019-12-31 23:59:14
+product_expiry_date 2022-01-01 00:00:14 2023-12-31 23:59:36
+promotion_start_date 2021-01-01 00:01:36 2021-12-31 23:59:18
+promotion_end_date 2022-01-01 00:00:02 2022-12-31 23:59:26
